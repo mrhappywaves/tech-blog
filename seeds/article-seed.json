@@ -1,0 +1,28 @@
+[
+    {
+        "title": "Why Security Innovation Starts with Hardware",
+        "content": "As security requirements and attack surfaces get more complex, the stakes around security innovation have never been higher. Learn why hardware is a critical piece to building your security posture.",
+        "user_id": 1
+    },
+    {
+        "title": "What leveraging AI in hybrid security systems means for enterprises",
+        "content": "Artificial intelligence (AI) is becoming more common than you may realise. Many of society's leading technologies are driven by AI technology, as their automated functions streamline processes and help people do more with less time.",
+        "user_id": 2
+
+    },
+    {
+        "title": "How Building a Cloud-Native Digital Business Just Got Simple as SaaS",
+        "content": "Digital transformation is key to a business' success. Learn how Choreo helps companies accelerate innovation by quickly building APIs, integrations and services.",
+        "user_id": 3
+    },
+    {
+        "title": "Digital biomarkers are healthcare's next frontier",
+        "content": "Historically, continuous tracking of an individual's vital signs meant they had to be in a hospital. But that's not true anymore. ",
+        "user_id": 4
+    },
+    {
+        "title": "Google picks ASUS IoT to help scale its Coral edge AI platform",
+        "content": "Google has picked ASUS IoT to help scale the manufacturing, distribution, and support of its Coral edge AI platform.",
+        "user_id": 5
+    }
+]

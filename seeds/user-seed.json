@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "username": "TechyPro",
+        "password": "password1"
+    },
+    {
+        "id": 2,
+        "username": "dev_beans",
+        "password": "password2"
+    },
+    {
+        "id": 3,
+        "username": "CodingBro",
+        "password": "password3"
+    },
+    {
+        "id": 4,
+        "username": "codester",
+        "password": "password4"
+    },
+    {
+        "id": 5,
+        "username": "dev_for_life",
+        "password": "password5"
+    }
+]

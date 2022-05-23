@@ -1,0 +1,32 @@
+[
+    {
+        "user_id": 1,
+        "article_id": 5,
+        "content": "Very interesting!"
+    },
+    {
+        "user_id": 4,
+        "article_id": 4,
+        "content": "Sounds great!"
+    },
+    {
+        "user_id": 1,
+        "article_id": 4,
+        "content": "This is some great news."
+    },
+    {
+        "user_id": 3,
+        "article_id": 5,
+        "content": "Keep them news coming."
+    },
+    {
+        "user_id": 3,
+        "article_id": 2,
+        "content": "What a beautiful post."
+    },
+    {
+        "user_id": 3,
+        "article_id": 4,
+        "content": "Some news right here!"
+    }
+]
