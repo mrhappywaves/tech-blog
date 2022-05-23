@@ -27,20 +27,23 @@ To get the project set up locally please follow the following steps:
  6. Switch your current directory to the local repository path (Ex: '..\Desktop\techno-blog')
  7. In your IDE console run - `npm i` 
  8. In the selling-it folder create `.env` file 
- 9. Fill out the the .env file by providing your mysql details: DB_USER, DB_PW, DB_NAME. (Note: DO NOT USE COMMAS in the file, example formatting: `DB_NAME=ecommerce_db`)
+ 9. Fill out the the .env file by providing your mysql details: DB_USER, DB_PW, DB_NAME. (Note: DO NOT USE COMMAS in the file, example formatting: `DB_NAME=blog_db`)
  10. Using your IDE console run command - `mysql -u root -p`. Enter your password and click Enter.
  11. Now under mysql run two commands separately: 1. `DROP DATABASE IF EXISTS ecommerce_db`; 2. `CREATE DATABASE ecommerce_db`; (Alternatively run this command: `SOURCE db\schema.sql`)
  12. Now run `quit` command 
- 13. Second to last, in your IDE console run - `npm run seed` to seed pre-existing data
+ 13. Second to last, in your IDE console run - `npm run seed` to seed pre-existing data.
  14. Lastly, run - `npm start` to start the application (by default application is set to run on the 3001 port, ex: http://localhost:3001/)
  
 ## Usage Examples
-Application can be used to share knowledge with a tech community as well as participate in blog article discussions. Below is video for app walkthrough:
+Application can be used to share knowledge with a tech community as well as participate in blog article discussions. Below is video of the app walkthrough:
 
 Video demo:
 
+https://user-images.githubusercontent.com/94947579/169802522-608c83d9-d604-4a2b-b5b7-49d51f1f3455.mp4
 
-Link to the app:
+
+Link to the live app deploy on Heroku:
+https://shrouded-bastion-27212.herokuapp.com/
 
 
 ## License
